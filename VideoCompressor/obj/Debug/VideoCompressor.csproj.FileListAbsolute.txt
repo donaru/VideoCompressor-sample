@@ -1,0 +1,8 @@
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\bin\Debug\VideoCompressor.exe.config
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\obj\Debug\VideoCompressor.csprojResolveAssemblyReference.cache
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\bin\Debug\VideoCompressor.exe
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\bin\Debug\VideoCompressor.pdb
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\obj\Debug\VideoCompressor.exe
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\obj\Debug\VideoCompressor.pdb
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\bin\Debug\NReco.VideoConverter.dll
+E:\Company\VideoCompress\VideoCompressor\VideoCompressor\bin\Debug\NReco.VideoConverter.xml
